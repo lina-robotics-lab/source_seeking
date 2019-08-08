@@ -15,6 +15,6 @@
     <node pkg="turtlebot3_bringup" type="turtlebot3_diagnostics" name="turtlebot3_diagnostics" output="screen"/>
 
     <!-- Light Sensors -->
-    <node pkg="light_sensors" type="light_sensors" name="PYTHON3_publish_all_sensors.py" output="screen"/>
+    <node pkg="light_sensors" type="light_sensors" name="PYTHON3_publish_all_sensors" output="screen"/>
 
 </launch>
